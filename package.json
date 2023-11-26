@@ -48,7 +48,7 @@
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.4",
     "typedi": "^0.8.0",
-    "typeorm": "^0.2.34",
+    "typeorm": "^0.2.39",
     "typeorm-typedi-extensions": "^0.2.3",
     "vm2": "latest",
     "vue": "^2.6.12",
