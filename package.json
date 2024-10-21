@@ -51,7 +51,7 @@
     "typeorm": "^0.2.34",
     "typeorm-typedi-extensions": "^0.2.3",
     "vm2": "latest",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-class-component": "^7.0.2",
     "vue-click-outside": "^1.1.0",
     "vue-clipboard2": "^0.3.1",
